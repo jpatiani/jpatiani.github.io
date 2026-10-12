@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Instalasi FFmpeg pada Mac OS 27 Apple Silicon M1"
+author: "jpatiani"
+categories: post
+tags: [documentation,sample]
+image: arctic-2.jpg
+---
+
 https://github.com/libass/libass/releases
 https://www.videolan.org/projects/dav1d.html
 https://sourceforge.net/projects/cunit/files/CUnit/2.1-3/
