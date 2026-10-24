@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 category: post
-permalink: /blog
+permalink: /post
 ---
 
 Semua catatan harusnya tampil di sini.
